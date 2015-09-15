@@ -1,0 +1,219 @@
+@import url(https://fonts.googleapis.com/css?family=Orbitron:400,700|Poiret+One);
+
+/*-----------------------------------------------------------Tags*/
+body {
+	background: #363434;
+	margin: 0;
+	width: 100%;
+}
+
+h1,h2,h3,h4 {
+	color:#fff; 
+	font-family: 'Orbitron', sans-serif;
+	font-weight: 400;
+}
+
+h1 {
+	font-size: 3rem;
+}
+
+h2 {
+	font-size: 2.5rem;
+}
+
+h3 {
+	font-size: 2rem;
+}
+
+h4 {
+	font-size: 1.5rem;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	color:#fff; 
+	font-family: 'Poiret One', cursive;
+	font-size: 1.3rem;
+}
+
+a {
+	color:#fff; 
+	text-decoration: none;
+}
+
+header {
+  background :#D7AE83;
+  overflow: hidden;
+  padding: 1% 0 1% 2%;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.5rem;
+}
+
+/*-----------------------------------------------------------Classes*/
+.title {
+  color: #fff;
+}
+
+.index-header {
+	background: url(../img/background.png) no-repeat center center;
+	background-size: cover;
+	padding: 10% 0;
+	width: 100%;
+}
+
+.index-header h1 {
+	color: #fff;
+	margin: 0;
+	text-align: center
+} 
+
+.index-wrapper {
+	margin: 0 auto;
+	width: 90%;
+}
+
+.snippet-div {
+	margin-bottom: 5%;
+	padding: 2% 0; 
+}
+
+
+.snippet-div h2:first-child {
+	border-bottom: 1px solid #20C0E5;
+}
+
+.color-list {
+	margin: 0 auto;
+	width: 90%;
+}
+
+.color {
+	display: inline-block;
+	margin: 0 2%;
+	padding: 2%;
+}
+
+.color div{
+  border: 2px solid rgba(254,254,254,0.4);
+	border-radius: 50%;
+	height: 100px;
+	margin: 0 auto;
+	width:100px;
+}
+
+.color h4 {
+	color: rgba(254,254,254,0.4);
+}
+
+
+.fonts-div h3:nth-child(3){
+	font-family: 'Orbitron', sans-serif;
+	font-weight: 700;
+}
+
+
+.social-nav li{
+	display: inline-block;
+  margin-left: 20px;
+}
+
+.social-nav img {
+	height: 40px;
+	width: 40px;
+}
+
+.main-nav a,  .languages-nav a{
+  float: left;
+  margin: 10px 30px 0 0;
+}
+
+.logo {
+	height: 60px;
+	width:80px;
+}
+
+.languages-nav {
+	float: right;
+  font-size: 1.2rem;
+}
+
+.active {
+  border-bottom: 2px solid #fff;
+}
+
+header a:hover {
+	border-bottom: 2px solid #fff;
+}
+
+.main-nav a:first-child {
+  margin: 0 30px 0 0;
+}
+
+.main-nav a:first-child:hover {
+  border: 0;
+}
+
+.btn-holder {
+  border: 2px solid #20C0E5;
+  margin-bottom: 40px;
+  width: 150px
+}
+
+.btn-holder button {
+  border: none;
+  color: #fff;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 2rem;
+  font-weight: 400;
+  margin: 0 0 10px 10px;
+  margin-top: -8px;
+  width: 100%;
+}
+
+.main-btn button {
+	background-color: #20C0E5;
+}
+
+.secondary-btn {
+  border-color: #24C29F;
+}
+
+.secondary-btn button {
+	background-color:#24C29F;
+}
+
+.btn-holder button:active {
+  margin: 0;
+}
+
+.btn-holder button:focus {
+  outline: 0;
+}
+
+/*-----------------------------------------------------------Colors*/
+.blue{
+	background-color: #20C0E5;
+}
+
+.green {
+	background-color:#24C29F;
+}
+
+.orange {
+	background-color:#F37C50;
+}
+
+.skin {
+	background-color:#D7AE83;
+}
+
+.blackish {
+	background-color:#363434;
+}
