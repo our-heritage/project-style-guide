@@ -1,0 +1,47 @@
+@import url(https://fonts.googleapis.com/css?family=Orbitron:400,700|Poiret+One);
+@import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
+
+body {
+	background: #363434;
+}
+
+p {
+  margin: 25% auto;
+ 	display: inline-block;
+  width: 50%;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  padding: 0 100px;
+  font-size: 50px;
+}
+
+.newgame {
+  text-align: right;
+  font-family: 'Orbitron';
+  font-weight: 700;
+}
+
+.newgame a{
+	padding: 20px 100px 20px 0;
+  color: #20C0E5;
+  border-right: 2px solid #fff;
+}
+
+.gamejam {
+  float: right;
+}
+
+.gamejam a{
+  font-family: 'Press Start 2P';
+  color: #3B8686;
+}
+
+.gamejam span{
+  color: #FD7948;
+  display: block;
+  margin-top: -15px;
+  margin-left: 200px;
+}
