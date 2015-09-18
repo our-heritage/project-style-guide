@@ -56,6 +56,10 @@ header {
   line-height: 2.5rem;
 }
 
+button {
+  padding: 2.5%;
+}
+
 /*-----------------------------------------------------------Classes*/
 .title {
   color: #fff;
