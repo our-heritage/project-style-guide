@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Orbitron:400,700|Poiret+One);
+@import url(https://fonts.googleapis.com/css?family=Finger+Paint);
 @import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
 
 
@@ -25,7 +25,7 @@ a {
 
 .newgame {
   text-align: right;
-  font-family: 'Orbitron';
+  font-family: 'Finger Paint';
   font-weight: 700;
 }
 
