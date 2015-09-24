@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Orbitron:400,700|Poiret+One);
+@import url(https://fonts.googleapis.com/css?family=Finger+Paint|Muli);
 
 /*-----------------------------------------------------------Tags*/
 body {
@@ -9,7 +9,7 @@ body {
 
 h1,h2,h3,h4 {
 	color:#fff; 
-	font-family: 'Orbitron', sans-serif;
+	font-family: 'Finger Paint', sans-serif;
 	font-weight: 400;
 }
 
@@ -37,7 +37,7 @@ ul {
 
 p {
 	color:#fff; 
-	font-family: 'Poiret One', cursive;
+	font-family: 'Muli', cursive;
 	font-size: 1.3rem;
 }
 
@@ -50,7 +50,7 @@ header {
   background :#D7AE83;
   overflow: hidden;
   padding: 1% 0 1% 2%;
-  font-family: 'Orbitron', sans-serif;
+  font-family: 'Finger Paint', sans-serif;
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 2.5rem;
@@ -118,7 +118,7 @@ button {
 
 
 .fonts-div h3:nth-child(3){
-	font-family: 'Orbitron', sans-serif;
+	font-family: 'Finger Paint', sans-serif;
 	font-weight: 700;
 }
 
@@ -173,7 +173,7 @@ header a:hover {
 .btn-holder button {
   border: none;
   color: #fff;
-  font-family: 'Orbitron', sans-serif;
+  font-family: 'Finger Paint', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   margin: 0 0 10px 10px;
